@@ -1,7 +1,7 @@
 Black-Litterman Portfolio
 ------
 
-A general portfolio optimization problem is to build an allocation of assets that minimizes the portfolio variance for an expected return, thus creating an [efficient frontier] (https://www.investopedia.com/terms/e/efficientfrontier.asp). 
+A general portfolio optimization problem is to build an allocation of assets that minimizes the portfolio variance for an expected return, thus creating an [efficient frontier](https://www.investopedia.com/terms/e/efficientfrontier.asp). 
 
 The problem is outlined as such (no-shorting, which can also be changed in the formulation):
 
@@ -21,7 +21,8 @@ This code will run both the vanilla portfolio optimization and the Black-Litterm
 
 We can see the slight differences in the efficient frontiers based on our expectations of returns across the asset classes, in a sample run
 
-![](https://github.com/njinchen/BL_Portfolio_Opt/blob/master/Asset_Weights.PNG)
+![](https://github.com/njinchen/BL_Portfolio_Opt/blob/master/Asset_Weights_Normal.PNG)
+
 
 ![](https://github.com/njinchen/BL_Portfolio_Opt/blob/master/Asset_Weights_BL.PNG)
 
