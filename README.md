@@ -17,15 +17,15 @@ where *tau* represents a small constant, *C* is the covariance matrix of excess 
 
 This code will run both the vanilla portfolio optimization and the Black-Litterman model, given the inputs. The packages used are `quadprog` and `ggplot2` in R.
 
-![](https://github.com/njinchen/BL_Portfolio_Opt/Efficient_Frontiers.png) 
+![](https://github.com/njinchen/BL_Portfolio_Opt/blob/master/Efficient_Frontiers.png) 
 
 We can see the slight differences in the efficient frontiers based on our expectations of returns across the asset classes, in a sample run
 
 ![]
-(https://github.com/njinchen/BL_Portfolio_Opt/Asset_Weights_Normal.png)
+(https://github.com/njinchen/BL_Portfolio_Opt/blob/master/Asset_Weights.PNG)
 
 ![]
-(https://github.com/njinchen/BL_Portfolio_Opt/Asset_Weights_BL.png)
+(https://github.com/njinchen/BL_Portfolio_Opt/blob/master/Asset_Weights_BL.PNG)
 
 As well as the differing weight values to achieve the return given a level of risk 
 
