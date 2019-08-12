@@ -21,11 +21,9 @@ This code will run both the vanilla portfolio optimization and the Black-Litterm
 
 We can see the slight differences in the efficient frontiers based on our expectations of returns across the asset classes, in a sample run
 
-![]
-(https://github.com/njinchen/BL_Portfolio_Opt/blob/master/Asset_Weights.PNG)
+![](https://github.com/njinchen/BL_Portfolio_Opt/blob/master/Asset_Weights.PNG)
 
-![]
-(https://github.com/njinchen/BL_Portfolio_Opt/blob/master/Asset_Weights_BL.PNG)
+![](https://github.com/njinchen/BL_Portfolio_Opt/blob/master/Asset_Weights_BL.PNG)
 
 As well as the differing weight values to achieve the return given a level of risk 
 
